@@ -1,0 +1,17 @@
+.vs/
+bin/
+obj/
+*.dll
+*.pdb
+
+*.log
+*.tmp
+*.bak
+
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
